@@ -1,1 +1,1 @@
-select * from source_data ;
+select * from dbt_ds.raw_customers
